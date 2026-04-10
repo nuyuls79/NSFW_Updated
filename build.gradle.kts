@@ -13,7 +13,7 @@ buildscript {
 
     dependencies {
         classpath("com.android.tools.build:gradle:8.13.2") // Versi AGP terbaru
-        classpath("com.github.recloudstream:gradle:master-SNAPSHOT") // edit stabil
+        classpath("com.github.recloudstream:gradle:1.2.0")// edit stabil
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:2.3.0") // Cocok Cloudstream pre-release
     }
 }
