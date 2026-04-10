@@ -1,6 +1,7 @@
 rootProject.name = "CloudstreamPlugins"
 
-// This file sets what projects are included. All new projects should get automatically included unless specified in "disabled" variable.
+// pilih plugin yang ingin dibuild saja
+include("Hahomoe")
 
 val disabled = listOf<String>()
 
