@@ -74,7 +74,7 @@ subprojects {
         implementation(kotlin("stdlib"))
 
         // FIX dependency
-        implementation("com.github.Blaztarr:NiceHttp:0.4.0")
+        implementation("com.github.Blaztarr:NiceHttp:0.3.2")
 
         implementation("org.jsoup:jsoup:1.13.1")
         implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.13.1")
